@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Tech Scribbles',
-  domain: 'techscribblesbybelinda.com',
+  domain: 'techscribbles-belindacoding.vercel.app',
   author: 'Belinda Wang',
 
   // open graph metadata (optional)
